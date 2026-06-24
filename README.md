@@ -19,7 +19,7 @@ The aim of the model is to give a clear, shared picture of how the process actua
 
 ## Process Diagram
 
-(process_diagram.png)
+Process diagram.png
 
 *The full BPMN model is also available as an editable Bizagi source file in this repository.*
 
